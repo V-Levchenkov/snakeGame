@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6a0d216-1b26-4350-bee2-075c76bc367f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnakeGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pictures/apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pictures/dot.png" afterDir="false" />
+    <list default="true" id="d6a0d216-1b26-4350-bee2-075c76bc367f" name="Changes" comment="ressurection">
+      <change afterPath="$PROJECT_DIR$/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pictures/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pictures/dot.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +37,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\v.levchenkov\IdeaProjects\SnakeGame" />
+      <recent name="C:\Users\v.levchenkov\IdeaProjects\SnakeGame\src" />
       <recent name="C:\Users\v.levchenkov\IdeaProjects\SnakeGame\src\pictures" />
     </key>
   </component>
@@ -57,8 +56,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708323516500</updated>
-      <workItem from="1708323518181" duration="2159000" />
+      <workItem from="1708323518181" duration="6901000" />
     </task>
+    <task id="LOCAL-00001" summary="ressurection">
+      <created>1708325734182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708325734182</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ressurection">
+      <created>1708325844966</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708325844966</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ressurection" />
+    <option name="LAST_COMMIT_MESSAGE" value="ressurection" />
   </component>
 </project>
